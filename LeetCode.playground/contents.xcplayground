@@ -3,5 +3,6 @@
     <pages>
         <page name='Number of Islands'/>
         <page name='Robot Sim'/>
+        <page name='Range Sum of BST'/>
     </pages>
 </playground>
