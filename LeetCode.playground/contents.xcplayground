@@ -4,5 +4,6 @@
         <page name='Number of Islands'/>
         <page name='Robot Sim'/>
         <page name='Range Sum of BST'/>
+        <page name='Remove Duplicate From Sorted List'/>
     </pages>
 </playground>
